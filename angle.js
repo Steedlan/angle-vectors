@@ -5,6 +5,7 @@ let v2 = [-17,-35,34] // vector2
 
 // Choose a mode /   true = based on norms / false = based on coordinates (it will create a second vector to find the angle)
 // if false, the 3 objects in those arrays become the coordinates of those 2 points
+mode = true
 
 if(mode == true) {
 
