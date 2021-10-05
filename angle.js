@@ -1,6 +1,6 @@
 // replace the 3 number in the array
-let v1 = [-17,-32,37] // vector 1
-let v2 = [-17,-35,34] // vector2
+let v1 = [X1,Y1,Z1] // vector 1
+let v2 = [X2,-Y2,Z2] // vector2
 //       Remember: [x,y,z] but z = y in maths
 
 // Choose a mode /   true = based on norms / false = based on coordinates (it will create a second vector to find the angle)
